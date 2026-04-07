@@ -1,13 +1,13 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Edsby Weekly Ultimate//mxm.dk//
+PRODID:-//Edsby Weekly Sync//mxm.dk//
 BEGIN:VEVENT
 SUMMARY:⚠️逾期: Overdue\n\nAssignment:\n\nAssignment 1 - Anxiety Can
  ada Podcast
 DTSTART;VALUE=DATE:20260407
 DTEND;VALUE=DATE:20260408
-DESCRIPTION:课程: PHYSICAL EDUCATION/HEALTH 30F\n跳转链接: https://p
- embinatrails.edsby.com/p/View/350433886
+DESCRIPTION:课程: PHYSICAL EDUCATION/HEALTH 30F\n链接: https://pembina
+ trails.edsby.com/p/View/350433886
 URL:https://pembinatrails.edsby.com/p/View/350433886
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 END:VEVENT
@@ -15,8 +15,8 @@ BEGIN:VEVENT
 SUMMARY:⚠️逾期: Overdue\n\nAssignment:\n\nPart 3 - PAP Risk Factors
 DTSTART;VALUE=DATE:20260407
 DTEND;VALUE=DATE:20260408
-DESCRIPTION:课程: PHYSICAL EDUCATION/HEALTH 30F\n跳转链接: https://p
- embinatrails.edsby.com/p/View/350433886
+DESCRIPTION:课程: PHYSICAL EDUCATION/HEALTH 30F\n链接: https://pembina
+ trails.edsby.com/p/View/350433886
 URL:https://pembinatrails.edsby.com/p/View/350433886
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 END:VEVENT
@@ -24,7 +24,8 @@ BEGIN:VEVENT
 SUMMARY:📚课表: EAL 2
 DTSTART:20260407T094000
 DTEND:20260407T104000
-DESCRIPTION:详情: EALLIT20F(04)\n\nRm. \n\n107-Sage Space (EAL)
+DESCRIPTION:详情: Absent Unresolved\n\nEALLIT20F(04)\n\nRm. \n\n107-Sage
+  Space (EAL)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:📚课表: PHYSICAL EDUCATION/HEALTH 30F
