@@ -8,16 +8,9 @@ SUMMARY:⚠️逾期: Assignment 1 - Anxiety Canada Podcast  PHYSICAL EDUC
 DTSTART;VALUE=DATE:20260407
 DTEND;VALUE=DATE:20260407
 UID:11456bb6ab8d1308f046c4099f666767@edsby_sync
-DESCRIPTION:📌 状态: 尚未提交/逾期未交\n🔗 点击直达: htt
- ps://pembinatrails.edsby.com/p/View/350433886
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📝作业: Part 3 -  PAP Risk Factors
-DTSTART;VALUE=DATE:20260407
-DTEND;VALUE=DATE:20260407
-UID:5b5c89977c57bcebe79cce91d2c459fc@edsby_sync
-DESCRIPTION:📌 状态: 待办作业\n🔗 链接: (网页未提供直接
- 链接)
+DESCRIPTION:📌 状态: 尚未提交/逾期未交\n🔗 详情里如果
+ 不让点，请看下方的 URL 栏！
+URL:https://pembinatrails.edsby.com/p/View/350433886
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:📚EAL 2  Absent Unresolved  EALLIT20F(04)
