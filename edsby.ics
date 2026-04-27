@@ -23,6 +23,15 @@ DESCRIPTION:📌 状态: 尚未提交/逾期未交\n🔗 详情里如果
 URL:https://pembinatrails.edsby.com/p/View/350433886
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:📝作业: Social Impact of Sport
+DTSTART;VALUE=DATE:20260427
+DTEND;VALUE=DATE:20260427
+UID:dbf39cf1b59596eaf88a97cbe4192327@edsby_sync
+DESCRIPTION:📌 状态: 待办作业\n🔗 详情里如果不让点，请
+ 看下方的 URL 栏！
+URL:https://pembinatrails.edsby.com/p/View/350433886
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:📚EAL 2  Present  EALLIT20F(04)
 DTSTART:20260427T094000
 DTEND:20260427T104000
