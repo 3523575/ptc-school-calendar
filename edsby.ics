@@ -23,6 +23,15 @@ DESCRIPTION:📌 状态: 尚未提交/逾期未交\n🔗 详情里如果
 URL:https://pembinatrails.edsby.com/p/View/350433886
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:📝作业: Article 2
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260518
+UID:e44102b5fbaf04cfd0ebe3fdd725a6a0@edsby_sync
+DESCRIPTION:📌 状态: 待办作业\n🔗 详情里如果不让点，请
+ 看下方的 URL 栏！
+URL:https://pembinatrails.edsby.com/p/View/367174494
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:📚EAL 2  EALLIT20F(04)
 DTSTART:20260519T094000
 DTEND:20260519T104000
