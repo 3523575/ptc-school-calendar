@@ -13,6 +13,15 @@ DESCRIPTION:📌 状态: 尚未提交/逾期未交\n🔗 详情里如果
 URL:https://pembinatrails.edsby.com/p/View/350433886
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:📝作业: Canada: The Story of Us E9
+DTSTART;VALUE=DATE:20260609
+DTEND;VALUE=DATE:20260609
+UID:5f52b33bf18c300463fc75c51a536221@edsby_sync
+DESCRIPTION:📌 状态: 待办作业\n🔗 详情里如果不让点，请
+ 看下方的 URL 栏！
+URL:https://pembinatrails.edsby.com/p/View/367174494
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:📚EAL 2  Late  EALLIT20F(04)
 DTSTART:20260609T094000
 DTEND:20260609T104000
