@@ -7,13 +7,14 @@ SUMMARY:📚PHYSICAL EDUCATION/HEALTH 30F  Late  PE30F(02)
 DTSTART:20260915T094000
 DTEND:20260915T104000
 UID:0f65b2c2af1024c770ffeaa1157e3e11@edsby_sync
-DESCRIPTION:PHYSICAL EDUCATION/HEALTH 30F\n\n今天在129教室集合。
- 课程部分时间在教室，部分时间在户外。不需要更换运
- 动服，但请穿适合在户外安全活动的鞋子。\n\n公告原文
- ：\nKS PHYSICAL EDUCATION/HEALTH 30F Topics Covered Meet in room 129 toda
- y. You don't need to change but please have shoes that you can move around
-  in safely outdoors. We will be partly in the classroom and partly outdoor
- s. To Do Date: Sep 15
+DESCRIPTION:PHYSICAL EDUCATION/HEALTH 30F\n\n地点：Room 129。\n无需
+ 换运动服。\n请穿适合户外安全活动的鞋子。\n部分时间
+ 在教室，部分时间在户外。\n请携带运动鞋。\n在129教室
+ 集合。课程无需更换运动服，但请携带/穿着适合户外安
+ 全活动的运动鞋。\n\n公告原文：\nKS PHYSICAL EDUCATION/HEALTH 
+ 30F Topics Covered Meet in room 129 today. You don't need to change but pl
+ ease have shoes that you can move around in safely outdoors. We will be pa
+ rtly in the classroom and partly outdoors. To Do Date: Sep 15
 LOCATION:Room 129
 END:VEVENT
 BEGIN:VEVENT
@@ -29,9 +30,11 @@ DTSTART:20260915T120000
 DTEND:20260915T130000
 UID:9318b81d1e054045abf1f6f8bc62a140@edsby_sync
 DESCRIPTION:LIFE/WORK BUILDING 30S\n\n当日不上课。\n公告另列有
- 志愿者值班名单，见下方原文。\n\n公告原文：\nTuesday\, S
- eptember 15th - No Leadership Class Note: Slot 4 Mostafa & Kenan at Terry 
- Fox Table Slot 5 Sam & Lucas at Terry Fox Table
+ 志愿者值班名单，见下方原文。\n领导力课程不上课。时
+ 段4：Mostafa和Kenan在Terry Fox桌。时段5：Sam和Lucas在Terry Fox
+ 桌。\n\n公告原文：\nTuesday\, September 15th - No Leadership Class 
+ Note: Slot 4 Mostafa & Kenan at Terry Fox Table Slot 5 Sam & Lucas at Terr
+ y Fox Table
 LOCATION:Rm. 127-Biology
 STATUS:CANCELLED
 END:VEVENT
@@ -62,9 +65,11 @@ DTSTART:20260916T120000
 DTEND:20260916T130000
 UID:779e25d431aa28669d9e18f7f14b2e8f@edsby_sync
 DESCRIPTION:LIFE/WORK BUILDING 30S\n\n地点：Room 127。\n公告另列
- 有志愿者值班名单，见下方原文。\n\n公告原文：\nWednesda
- y\, September 16th - Leadership Class (Room 127) Note: Slot 4 Mostafa & Ke
- nan at Terry Fox Table Slot 5 Kambryn\, Sam & David at Terry Fox Table
+ 有志愿者值班名单，见下方原文。\n领导力课程在Room 127
+ 上课。时段4：Mostafa和Kenan在Terry Fox桌。时段5：Kambryn、Sa
+ m和David在Terry Fox桌。\n\n公告原文：\nWednesday\, September 16th
+  - Leadership Class (Room 127) Note: Slot 4 Mostafa & Kenan at Terry Fox T
+ able Slot 5 Kambryn\, Sam & David at Terry Fox Table
 LOCATION:Room 127
 END:VEVENT
 BEGIN:VEVENT
@@ -94,9 +99,11 @@ DTSTART:20260917T120000
 DTEND:20260917T130000
 UID:d42f2ec18262eedd2efb460c2fabc851@edsby_sync
 DESCRIPTION:LIFE/WORK BUILDING 30S\n\n当日不上课。\n公告另列有
- 志愿者值班名单，见下方原文。\n\n公告原文：\nThursday\, 
- September 17th - No Leadership Class Note: Slot 4 David & Sam at Terry Fox
-  Table Slot 5 Ravleen & Precious at Terry Fox Table
+ 志愿者值班名单，见下方原文。\n领导力课程不上课。时
+ 段4：David和Sam在Terry Fox桌。时段5：Ravleen和Precious在Terry F
+ ox桌。\n\n公告原文：\nThursday\, September 17th - No Leadership Cla
+ ss Note: Slot 4 David & Sam at Terry Fox Table Slot 5 Ravleen & Precious a
+ t Terry Fox Table
 LOCATION:Rm. 127-Biology
 STATUS:CANCELLED
 END:VEVENT
@@ -164,117 +171,127 @@ UID:7971790849c263716b60f34c9395969a@edsby_sync
 LOCATION:Rm. 107-Sage
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Life/Work｜Room 127 · 课堂安排
+SUMMARY:领导力课程 - Room 127
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
-DTSTAMP:20260915T173053Z
+DTSTAMP:20260915T184028Z
 UID:198c073634558f85d50db44b565ecdb60c64b7aa23474554b107c27e72493c45@edsby
  _ai_sync
-SEQUENCE:1789493453
+SEQUENCE:1789497628
 DESCRIPTION:LIFE/WORK BUILDING 30S\n\n地点：Room 127。\n公告另列
- 有志愿者值班名单，见下方原文。\n\n公告原文：\nWednesda
- y\, September 16th - Leadership Class (Room 127) Note: Slot 4 Mostafa & Ke
- nan at Terry Fox Table Slot 5 Kambryn\, Sam & David at Terry Fox Table
-LAST-MODIFIED:20260915T173053Z
+ 有志愿者值班名单，见下方原文。\n领导力课程在Room 127
+ 上课。时段4：Mostafa和Kenan在Terry Fox桌。时段5：Kambryn、Sa
+ m和David在Terry Fox桌。\n\n公告原文：\nWednesday\, September 16th
+  - Leadership Class (Room 127) Note: Slot 4 Mostafa & Kenan at Terry Fox T
+ able Slot 5 Kambryn\, Sam & David at Terry Fox Table
+LAST-MODIFIED:20260915T184028Z
 LOCATION:Room 127
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Life/Work｜不上课 · 当日安排
+SUMMARY:领导力课程 - 不上课
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
-DTSTAMP:20260915T173053Z
+DTSTAMP:20260915T184028Z
 UID:1af78376d7ed26d3fbe2f55faefd1e4d387ad6f732e36b21e4e40e988dfc22c5@edsby
  _ai_sync
-SEQUENCE:1789493453
+SEQUENCE:1789497628
 DESCRIPTION:LIFE/WORK BUILDING 30S\n\n当日不上课。\n公告另列有
- 志愿者值班名单，见下方原文。\n\n公告原文：\nTuesday\, S
- eptember 15th - No Leadership Class Note: Slot 4 Mostafa & Kenan at Terry 
- Fox Table Slot 5 Sam & Lucas at Terry Fox Table
-LAST-MODIFIED:20260915T173053Z
+ 志愿者值班名单，见下方原文。\n领导力课程不上课。时
+ 段4：Mostafa和Kenan在Terry Fox桌。时段5：Sam和Lucas在Terry Fox
+ 桌。\n\n公告原文：\nTuesday\, September 15th - No Leadership Class 
+ Note: Slot 4 Mostafa & Kenan at Terry Fox Table Slot 5 Sam & Lucas at Terr
+ y Fox Table
+LAST-MODIFIED:20260915T184028Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:体育与健康30F - 129教室集合及户外活动
+SUMMARY:体育与健康30F - 129教室集合
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
-DTSTAMP:20260915T173054Z
+DTSTAMP:20260915T184028Z
 UID:652fd6714433b52bba817f47a862ab80ff4094fcffa29e2d4bc80dcdf3421d00@edsby
  _ai_sync
-SEQUENCE:1789493454
-DESCRIPTION:PHYSICAL EDUCATION/HEALTH 30F\n\n今天在129教室集合。
- 课程部分时间在教室，部分时间在户外。不需要更换运
- 动服，但请穿适合在户外安全活动的鞋子。\n\n公告原文
- ：\nKS PHYSICAL EDUCATION/HEALTH 30F Topics Covered Meet in room 129 toda
- y. You don't need to change but please have shoes that you can move around
-  in safely outdoors. We will be partly in the classroom and partly outdoor
- s. To Do Date: Sep 15
-LAST-MODIFIED:20260915T173054Z
+SEQUENCE:1789497628
+DESCRIPTION:PHYSICAL EDUCATION/HEALTH 30F\n\n地点：Room 129。\n无需
+ 换运动服。\n请穿适合户外安全活动的鞋子。\n部分时间
+ 在教室，部分时间在户外。\n请携带运动鞋。\n在129教室
+ 集合。课程无需更换运动服，但请携带/穿着适合户外安
+ 全活动的运动鞋。\n\n公告原文：\nKS PHYSICAL EDUCATION/HEALTH 
+ 30F Topics Covered Meet in room 129 today. You don't need to change but pl
+ ease have shoes that you can move around in safely outdoors. We will be pa
+ rtly in the classroom and partly outdoors. To Do Date: Sep 15
+LAST-MODIFIED:20260915T184028Z
 LOCATION:Room 129
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Life/Work｜不上课 · 当日安排
+SUMMARY:领导力课程 - 不上课
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
-DTSTAMP:20260915T173053Z
+DTSTAMP:20260915T184028Z
 UID:85e9a4725333dfd197419ff05cfb88c09c2f196fb3dbb4fd709b051d6a92181a@edsby
  _ai_sync
-SEQUENCE:1789493453
+SEQUENCE:1789497628
 DESCRIPTION:LIFE/WORK BUILDING 30S\n\n当日不上课。\n公告另列有
- 志愿者值班名单，见下方原文。\n\n公告原文：\nThursday\, 
- September 17th - No Leadership Class Note: Slot 4 David & Sam at Terry Fox
-  Table Slot 5 Ravleen & Precious at Terry Fox Table
-LAST-MODIFIED:20260915T173053Z
+ 志愿者值班名单，见下方原文。\n领导力课程不上课。时
+ 段4：David和Sam在Terry Fox桌。时段5：Ravleen和Precious在Terry F
+ ox桌。\n\n公告原文：\nThursday\, September 17th - No Leadership Cla
+ ss Note: Slot 4 David & Sam at Terry Fox Table Slot 5 Ravleen & Precious a
+ t Terry Fox Table
+LAST-MODIFIED:20260915T184028Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:储物柜申请｜填写申请表，等待 Edsby 通知
+SUMMARY:待确认日期｜储物柜申请｜填写申请表，等待 Edsby
+  通知
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
-DTSTAMP:20260915T173053Z
+DTSTAMP:20260915T184028Z
 UID:864a76f275afce829a084f0057829ad95fa402bd4f5754bb952ea46f1c85c92b@edsby
  _ai_sync
-SEQUENCE:1789493453
-DESCRIPTION:DO YOU WANT A LOCKER?\n\n关于储物柜申请的通知。如
- 需储物柜，请填写PTC储物柜申请表（链接在附件中，学
- 生可访问）。请注意：您将在一两周内收到包含储物柜
- 号码和密码的Edsby消息。请勿到办公室询问，请等待Edsby
- 消息。\n\n公告原文：\nDO YOU WANT A LOCKER?\nIf you would like a l
- ocker\, please fill out the PTC Locker Request Form. The link is attached 
- below (students have access). PLEASE NOTE: YOU WILL GET AN EDSBY MESSAGE W
- ITH YOUR LOCKER NUMBER AND COMBINATION OVER THE NEXT WEEK OR TWO. PLEASE D
- O NOT COME TO THE OFFICE AND ASK ABOUT YOUR LOCKER\, WAIT UNTIL YOU GET AN
-  EDSBY MESSAGE.
-LAST-MODIFIED:20260915T173053Z
+SEQUENCE:1789497628
+DESCRIPTION:DO YOU WANT A LOCKER?\n\n原公告未注明日期；列为首
+ 次发现日的全天提醒，请核对实际安排。\n如需储物柜，
+ 请填写PTC储物柜申请表。链接已附在下方（学生可访问
+ ）。请注意：您将在一两周内收到Edsby消息，告知您的储
+ 物柜号码和密码。请勿到办公室询问，请等待Edsby消息。
+ \n\n公告原文：\nDO YOU WANT A LOCKER?\nIf you would like a locker\, p
+ lease fill out the PTC Locker Request Form. The link is attached below (st
+ udents have access). PLEASE NOTE: YOU WILL GET AN EDSBY MESSAGE WITH YOUR 
+ LOCKER NUMBER AND COMBINATION OVER THE NEXT WEEK OR TWO. PLEASE DO NOT COM
+ E TO THE OFFICE AND ASK ABOUT YOUR LOCKER\, WAIT UNTIL YOU GET AN EDSBY ME
+ SSAGE.
+LAST-MODIFIED:20260915T184028Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Life/Work｜08:00 健身房前集合 · Terry Fox
+SUMMARY:领导力课程 - 健身房前集合
 DTSTART:20260918T080000
-DTSTAMP:20260915T173053Z
+DTSTAMP:20260915T184028Z
 UID:9eadc3f793c58a7994af4cc90485e2d7fd830e6f47f8d769320ddcb9c68a907e@edsby
  _ai_sync
-SEQUENCE:1789493453
+SEQUENCE:1789497628
 DESCRIPTION:LIFE/WORK BUILDING 30S\n\n地点：健身房前（in front of 
  the Fitness Room）。\n08:00 全班集合，准备 Terry Fox 步行活动
- 。\n\n公告原文：\nFriday\, September 18th - 8:00am Meet as a class i
- n front of the Fitness Room\; we will be preparing for the Terry Fox Walk 
- which happens at the beginning of slot 1.
-LAST-MODIFIED:20260915T173053Z
+ 。\n上午8:00全班在健身房前集合，为时段1开始的Terry Fox 
+ Walk做准备。\n\n公告原文：\nFriday\, September 18th - 8:00am Meet
+  as a class in front of the Fitness Room\; we will be preparing for the Te
+ rry Fox Walk which happens at the beginning of slot 1.
+LAST-MODIFIED:20260915T184028Z
 LOCATION:健身房前（in front of the Fitness Room）
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:APPLIED MATHEMATICS 30S SMWYK 复习
+SUMMARY:应用数学30S - SMWYK复习
 DTSTART:20260915T083000
 DTEND:20260915T084500
-DTSTAMP:20260915T173053Z
+DTSTAMP:20260915T184028Z
 UID:af2108a9fc4a0df2b26dfc4012eb3ec65e70cad96ce12df43a11e61f7be83edd@edsby
  _ai_sync
-SEQUENCE:1789493453
-DESCRIPTION:APPLIED MATHEMATICS 30S\n\nSMWYK 复习\n\n公告原文：\nWS
-  APPLIED MATHEMATICS 30S Event: SMWYK Review Tuesday\, September 15\, 2026
-  8:30a - 8:45a
-LAST-MODIFIED:20260915T173053Z
+SEQUENCE:1789497628
+DESCRIPTION:APPLIED MATHEMATICS 30S\n\n应用数学30S课程：SMWYK复习
+ \n\n公告原文：\nWS APPLIED MATHEMATICS 30S Event: SMWYK Review Tuesda
+ y\, September 15\, 2026 8:30a - 8:45a
+LAST-MODIFIED:20260915T184028Z
 END:VEVENT
 END:VCALENDAR
