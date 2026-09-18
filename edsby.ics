@@ -258,6 +258,35 @@ LAST-MODIFIED:20260918T050050Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:学生费用截止日
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+DTSTAMP:20260918T154551Z
+UID:876219719a29bbf43f152a7d964519dbd4cf8457aef4767c83d7cb8892975bdf@edsby
+ _ai_sync
+SEQUENCE:1789746351
+DESCRIPTION:Student Fees\n\n地点：食堂（Cafeteria）。\n学生费
+ 用（$65.00）截止日期。可通过 Permission Click 在线支付或
+ 到学校办公室现金支付（若付现金，需在线填写表格并
+ 选择现金/支票选项）。费用涵盖食堂和走廊午间监管、
+ 学生会活动、健身室使用、跨学科项目及全校活动（如
+ 社区博览会）等。\n\n公告原文：\nSeptember 29 via Permission C
+ lick or by Cash (if paying by cash\, please fill out the online permission
+  click form below and select the paid by cash/cheque option) to the school
+  office. This fee also covers the costs associated with the cafeteria and 
+ hallway supervision during our lunch period. Students at PTC are staying o
+ n campus and this is fantastic\, but we need to provide increased supervis
+ ion to continue to build a community that is built on safety and belonging
+ . Student fees include the following: Student Council and Student Advisory
+  planned functions including supplies Access to the fitness studio for all
+  students Interdisciplinary programming opportunities outside of the typic
+ al curricular areas Whole school events for example\, the Community Fair o
+ n
+LAST-MODIFIED:20260918T154551Z
+LOCATION:食堂（Cafeteria）
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:领导力课程 - 健身房前集合
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
