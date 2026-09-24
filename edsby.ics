@@ -276,4 +276,19 @@ LAST-MODIFIED:20260918T154551Z
 LOCATION:食堂（Cafeteria）
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:年鉴领取
+DTSTART:20260929T120000
+DTEND:20260929T131000
+DTSTAMP:20260924T191746Z
+UID:a58a0141be9077f08af554030d390ed1a5fed867a68266f6e956aa5dcc471f6c@edsby
+ _ai_sync
+SEQUENCE:1790277466
+DESCRIPTION:2025-2026 Yearbook Pick-Up\n\n领取2025-2026学年年鉴（
+ 去年的年鉴）。领取地点在办公室前，时间为第五节课
+ （12:00 - 13:10）。\n\n公告原文：\n2025-2026 Yearbook Pick-Up\n202
+ 5-2026 Yearbooks (from last year) will be availble for pick up on Tuesday\
+ , September 29 in front of the Office during period 5 (12:00 pm - 1:10 pm)
+LAST-MODIFIED:20260924T191746Z
+END:VEVENT
 END:VCALENDAR
