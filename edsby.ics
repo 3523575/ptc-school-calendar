@@ -185,6 +185,27 @@ LAST-MODIFIED:20260916T030026Z
 LOCATION:Rm. 107-Sage
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:待确认日期｜体育与健康40F - 查看并准备选择BLOCK
+ 页面
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+DTSTAMP:20260928T013301Z
+UID:1c8876cb6bad6bc741b9dde27ed83dcc771d531f8cd01e9c7fa92401cc5f78cc@edsby
+ _ai_sync
+SEQUENCE:1790559181
+DESCRIPTION:PHYSICAL EDUCATION/HEALTH 40F\n\n原公告未注明日期；
+ 列为首次发现日的全天提醒，请核对实际安排。\n查看的
+ BLOCK选择页面，准备好做决定。请带一支笔以便进行选择
+ 。建议拍照记录你的选择。\n\n公告原文：\nPHYSICAL EDUCATIO
+ N/HEALTH 40F Hello class. Here is the BLOCK page you will be choosing from
+  this week. Have a look at it so you are ready to make your decisions. Bri
+ ng a pen so you can make the selections. I will also suggest you taking a 
+ picture for you to remember you choices. Thx Mr. D Period 4 Block Schedule
+  Semester 1.pdf 49.16 KB PDF File
+LAST-MODIFIED:20260928T013301Z
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:学生费用截止日
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
