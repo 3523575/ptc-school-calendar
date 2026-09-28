@@ -228,4 +228,33 @@ DESCRIPTION:2025-2026 Yearbook Pick-Up\n\n领取2025-2026学年年鉴（
  , September 29 in front of the Office during period 5 (12:00 pm - 1:10 pm)
 LAST-MODIFIED:20260924T191746Z
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:体育与健康40F PAP日志开始
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+DTSTAMP:20260928T114803Z
+UID:e24718129c24e6a25b99afe0800a1fbe0b2275d08cc7e90e42cef8e2efc7357e@edsby
+ _ai_sync
+SEQUENCE:1790596083
+DESCRIPTION:PHYSICAL EDUCATION/HEALTH 40F\n\n地点安排带有条件，
+ 请按原公告核对，不能视为无条件更换教室。\n体育与健
+ 康40F：PAP日志Excel表格官方开始日期。请在使用SAMPLE 1标
+ 签开始记录，使用SAMPLE 2标签。文件已通过One Drive发送，
+ 请勿保存，直接在One Drive中编辑此实时文档。确保遵循
+ 要求以获得每周的“完成”评价，否则将记为“未完成
+ ”并在学期末的补课日弥补。\n\n公告原文：\nPHYSICAL EDUCA
+ TION/HEALTH 40F 19s ago Hello again class. I have just sent you all your P
+ AP Log Excel - Please try and open it and to make sure I gave you EDIT per
+ mission on it. You can start to log ASAP for this coming week under the SA
+ MPLE 1 tab - then next week use the SAMPLE 2 tab. This has been sent as a 
+ ONE DRIVE. Remember DO NOT save it. Just open in One Drive to edit as it i
+ s a LIVE document. The official start date is Oct 19th Week. This then giv
+ es you 2 weeks of opportunity to use the excel and to make sure you are fo
+ llowing my expectations what is needed to earn a COMPLETE each week. Other
+ wise they become INCOMPLETE and you will be making it up in a MAKE UP DAY 
+ near the end of the semester. So make sure to work on these over the next 
+ two week. Thx Mr. D
+LAST-MODIFIED:20260928T114803Z
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
