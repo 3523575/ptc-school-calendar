@@ -214,19 +214,22 @@ LOCATION:食堂（Cafeteria）
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Slots #7 & #8 - EAL Literacy Stage 3｜重要事项
+SUMMARY:EAL Literacy Stage 3 - 推荐观看《First Contact》纪录片
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20260929T161833Z
+DTSTAMP:20260929T164828Z
 UID:9cb44df81babfb83ff833c90dff92663c602e92526553025208a0bf33b6cecb1@edsby
  _ai_sync
-SEQUENCE:1790698713
-DESCRIPTION:Slots #7 & #8 - EAL Literacy Stage 3\n\nAI 暂时不可用；
- 以下为原文规则提取，详情以公告原文为准。\n\n公告原
- 文：\ntoday! Here are the links to the series called "First Contact": Ep
- isode 1: The Journey Begins | TVO \nToday Episode 2: A Group Divided | TVO
-  \nToday Episode 3: The Road to Healing | TVO \nToday
-LAST-MODIFIED:20260929T161833Z
+SEQUENCE:1790700508
+DESCRIPTION:Slots #7 & #8 - EAL Literacy Stage 3\n\n老师推荐在橙色
+ 衬衫日观看系列纪录片《First Contact》。第一集《The Journe
+ y Begins》可在TVO观看，其中包含集会上演讲者Michael Redhead
+  Champagne的内容。第二集《A Group Divided》和第三集《The Roa
+ d to Healing》也可在TVO观看。\n\n公告原文：\ntoday! Here are t
+ he links to the series called "First Contact": Episode 1: The Journey Begi
+ ns | TVO \nToday Episode 2: A Group Divided | TVO \nToday Episode 3: The R
+ oad to Healing | TVO \nToday
+LAST-MODIFIED:20260929T164828Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
