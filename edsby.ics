@@ -221,6 +221,29 @@ LAST-MODIFIED:20260916T030026Z
 LOCATION:Rm. 107-Sage
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:特殊语言考试
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+DTSTAMP:20261001T181805Z
+UID:4dd95a934cba062dc6eacbf96358452e9fc4a19cbafccdbe7e10a5919d43b691@edsby
+ _ai_sync
+SEQUENCE:1790878685
+DESCRIPTION:Special Language Exams\n\n地点：Fort Richmond Collegiate。
+ \n特殊语言考试安排日期为放学后在Fort Richmond Collegiate举
+ 行。考试级别无需与年级匹配。"居民"指Pembina Trails学区
+ 居民。如有疑问，请在Edsby上联系Beauchamp女士。点击附件
+ 获取注册链接或二维码。注册截止日期为10月26日。\n\n公
+ 告原文：\nDecember 1st and 2nd after school at Fort Richmond Collegiat
+ e. A couple of important things to note: The level of exam that you take D
+ OES NOT need to match your grade level. The poster says that you must be a
+  "resident". This means a resident of Pembina Trails School Division\, whi
+ ch all of you are. Please message Ms. Beauchamp on Edsby if you have any q
+ uestions about the exam or registration. Click on the attachment for the r
+ egistration link or QR code. Registration closes on
+LAST-MODIFIED:20261001T181805Z
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:体育与健康40F：PAP活动日志开始周
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
