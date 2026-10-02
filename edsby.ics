@@ -221,6 +221,27 @@ LAST-MODIFIED:20260916T030026Z
 LOCATION:Rm. 107-Sage
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:待确认日期｜Slots #7 & #8 - EAL Literacy Stage 3｜重要事
+ 项
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+DTSTAMP:20261002T143257Z
+UID:36ac0cbd6da5f1996ee75b93e7da78b58b6fbd04a4890532ed5e7a59ccf73f75@edsby
+ _ai_sync
+SEQUENCE:1790951577
+DESCRIPTION:Slots #7 & #8 - EAL Literacy Stage 3\n\n原公告未注明日
+ 期；列为首次发现日的全天提醒，请核对实际安排。\n特
+ 殊语言考试举行。如需参加考试获取学分，请阅读海报
+ 。如有疑问，请预约Beauchamp老师。\n\n公告原文：\nSlots #7
+  & #8 - EAL Literacy Stage 3 Hi everyone! The special language exams are c
+ oming soon! If you would like to write the exam for credits\, please read 
+ this poster and if you have any questions please make an appointment with 
+ Ms. Beauchamp. Have a wonderful weekend! Ms. M. Special Language credit po
+ ster.pdf 241.32 KB PDF File
+LAST-MODIFIED:20261002T143257Z
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:特殊语言考试
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
