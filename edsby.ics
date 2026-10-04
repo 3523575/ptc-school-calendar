@@ -206,6 +206,26 @@ LAST-MODIFIED:20261001T181805Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:体育与健康40F：SAMPLE 1周检查
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+DTSTAMP:20261004T233101Z
+UID:540f8e3810e765f3eeffbd39b1bc9a149caf98e2dbf9a06955535ebe275aa53f@edsby
+ _ai_sync
+SEQUENCE:1791156661
+DESCRIPTION:原文只注明单个时间，未提供有效的起止时间
+ 区段。原文时间：19:00；此条仅作全天提醒，不占用具体
+ 时间段。\n\nPHYSICAL EDUCATION/HEALTH 40F\n\n这是你的SAMPLE 1周
+ 检查。这是一个草稿周，是否完成由你决定。请仅在One D
+ rive上在线完成，无需分享任何内容。\n\n公告原文：\nOct 
+ 4 Sample 1 -\nSunday\, October 4\, 2026 @ 7:00PM This is your SAMPLE 1 wee
+ k check in. Remember this is up to you to complete or not for a draft week
+ . Remember\, you do not share anything only complete online in the ONE DRI
+ VE ONLY... Thx
+LAST-MODIFIED:20261004T233101Z
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:体育与健康40F：PAP活动日志开始周
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
