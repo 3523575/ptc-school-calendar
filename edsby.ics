@@ -231,31 +231,24 @@ LAST-MODIFIED:20261001T181805Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:12年级体育/健康课：PAP活动日志开始周
+SUMMARY:12年级体育/健康 - PAP日志开始周
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
-DTSTAMP:20261005T013144Z
+DTSTAMP:20261005T114622Z
 UID:e24718129c24e6a25b99afe0800a1fbe0b2275d08cc7e90e42cef8e2efc7357e@edsby
  _ai_sync
-SEQUENCE:1791163904
+SEQUENCE:1791200782
 DESCRIPTION:Grade 12 PE / Health Period 3\n\n地点安排带有条件，
- 请按原公告核对，不能视为无条件更换教室。\n12年级体
- 育/健康课：PAP活动日志Excel表格官方开始周。请在OneDrive
- 中打开并编辑（不要保存），使用SAMPLE 1标签页记录，使
- 用SAMPLE 2标签页。每周需按要求完成以获得“COMPLETE”评
- 价，否则需在学期末补做。\n\n公告原文：\nGrade 12 PE / Hea
- lth Period 3 Hello again class. I have just sent you all your PAP Log Exce
- l - Please try and open it and to make sure I gave you EDIT permission on 
- it. You can start to log ASAP for this coming week under the SAMPLE 1 tab 
- - then next week use the SAMPLE 2 tab. This has been sent as a ONE DRIVE. 
- Remember DO NOT save it. Just open in One Drive to edit as it is a LIVE do
- cument. The official start date is Oct 19th Week. This then gives you 2 we
- eks of opportunity to use the excel and to make sure you are following my 
- expectations what is needed to earn a COMPLETE each week. Otherwise they b
- ecome INCOMPLETE and you will be making it up in a MAKE UP DAY near the en
- d of the semester. So make sure to work on these over the next two week. T
- hx Mr. D
-LAST-MODIFIED:20261005T013144Z
+ 请按原公告核对，不能视为无条件更换教室。\nPAP日志Exc
+ el官方开始周。使用SAMPLE 2标签记录。确保遵循要求以获
+ 得每周“完成”评价，否则将记为“未完成”并在学期
+ 末补做。文档为OneDrive实时文件，请勿保存，直接在线编
+ 辑。\n\n公告原文：\nOct 19th Week. This then gives you 2 weeks of o
+ pportunity to use the excel and to make sure you are following my expectat
+ ions what is needed to earn a COMPLETE each week. Otherwise they become IN
+ COMPLETE and you will be making it up in a MAKE UP DAY near the end of the
+  semester. So make sure to work on these over the next two week. Thx Mr. D
+LAST-MODIFIED:20261005T114622Z
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
