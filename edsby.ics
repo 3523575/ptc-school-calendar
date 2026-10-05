@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//Edsby Perfect Sync//EN
 X-WR-TIMEZONE:America/Winnipeg
 BEGIN:VEVENT
-SUMMARY:📚PHYSICAL EDUCATION/HEALTH 40F  PE40F(04)
+SUMMARY:📚Grade 12 PE / Health Period 3  PE40F(04)
 DTSTART:20261005T094000
 DTEND:20261005T105000
 DTSTAMP:20260916T030026Z
@@ -39,7 +39,7 @@ LAST-MODIFIED:20260916T030026Z
 LOCATION:Rm. 107-Sage
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📚PHYSICAL EDUCATION/HEALTH 40F  PE40F(04)
+SUMMARY:📚Grade 12 PE / Health Period 3  PE40F(04)
 DTSTART:20261006T094000
 DTEND:20261006T105000
 DTSTAMP:20260916T030026Z
@@ -75,7 +75,7 @@ LAST-MODIFIED:20260916T030026Z
 LOCATION:Rm. 107-Sage
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📚PHYSICAL EDUCATION/HEALTH 40F  PE40F(04)
+SUMMARY:📚Grade 12 PE / Health Period 3  PE40F(04)
 DTSTART:20261007T094000
 DTEND:20261007T105000
 DTSTAMP:20260916T030026Z
@@ -111,7 +111,7 @@ LAST-MODIFIED:20260916T030026Z
 LOCATION:Rm. 107-Sage
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📚PHYSICAL EDUCATION/HEALTH 40F  PE40F(04)
+SUMMARY:📚Grade 12 PE / Health Period 3  PE40F(04)
 DTSTART:20261008T094000
 DTEND:20261008T105000
 DTSTAMP:20260916T030026Z
@@ -147,7 +147,7 @@ LAST-MODIFIED:20260916T030026Z
 LOCATION:Rm. 107-Sage
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📚PHYSICAL EDUCATION/HEALTH 40F  PE40F(04)
+SUMMARY:📚Grade 12 PE / Health Period 3  PE40F(04)
 DTSTART:20261009T094000
 DTEND:20261009T105000
 DTSTAMP:20260916T030026Z
@@ -183,6 +183,31 @@ LAST-MODIFIED:20260916T030026Z
 LOCATION:Rm. 107-Sage
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:12年级体育/健康课 - Block 1开始
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+DTSTAMP:20261005T013145Z
+UID:40d307765ef4c03f30ebb1d21cae7f8a175d14198edce6ef9c150de2518b8bcf@edsby
+ _ai_sync
+SEQUENCE:1791163905
+DESCRIPTION:Grade 12 PE / Health Period 3\n\n地点安排带有条件，
+ 请按原公告核对，不能视为无条件更换教室。\n12年级体
+ 育/健康课第3节：Block 1开始。请确认你选择了正确的Block
+ 。参加体育Block需要携带并更换运动服装，健康Block则不
+ 需要。具体地点请查看健身室外的白板通知。\n\n公告原
+ 文：\nGrade 12 PE / Health Period 3 Hello class. Here is your October ca
+ lendar. This will help guide you to the location we will be in for the mos
+ t part. If things change i will try and notify you and remember the locati
+ ons are also posted on the white board outside of the Fitness Room. Rememb
+ er BLOCK 1 starts Friday October 9th. If you have selected this you need t
+ o be in the correct block. Remember at Blocks you need to CHANGE for them 
+ so make sure you have your change of clothes ready. The only ones you don'
+ t are the Health Blocks. Thx Mr. D Ditter Grade 12 Period 3 Oct 2026.pdf 6
+ 6.24 KB PDF File
+LAST-MODIFIED:20261005T013145Z
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:特殊语言考试
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
@@ -206,51 +231,51 @@ LAST-MODIFIED:20261001T181805Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:体育与健康40F：SAMPLE 1周检查
+SUMMARY:12年级体育/健康 - SAMPLE 1 周检查
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20261004T233101Z
+DTSTAMP:20261005T013144Z
 UID:540f8e3810e765f3eeffbd39b1bc9a149caf98e2dbf9a06955535ebe275aa53f@edsby
  _ai_sync
-SEQUENCE:1791156661
+SEQUENCE:1791163904
 DESCRIPTION:原文只注明单个时间，未提供有效的起止时间
  区段。原文时间：19:00；此条仅作全天提醒，不占用具体
- 时间段。\n\nPHYSICAL EDUCATION/HEALTH 40F\n\n这是你的SAMPLE 1周
- 检查。这是一个草稿周，是否完成由你决定。请仅在One D
- rive上在线完成，无需分享任何内容。\n\n公告原文：\nOct 
- 4 Sample 1 -\nSunday\, October 4\, 2026 @ 7:00PM This is your SAMPLE 1 wee
- k check in. Remember this is up to you to complete or not for a draft week
- . Remember\, you do not share anything only complete online in the ONE DRI
- VE ONLY... Thx
-LAST-MODIFIED:20261004T233101Z
+ 时间段。\n\nGrade 12 PE / Health Period 3\n\n这是你的 SAMPLE 1 周
+ 检查。请记住，这是一个草稿周，是否完成由你决定。
+ 请仅在 ONE DRIVE 中在线完成，不要分享任何内容。\n\n公
+ 告原文：\nOct 4 Sample 1 -\nSunday\, October 4\, 2026 @ 7:00PM This is
+  your SAMPLE 1 week check in. Remember this is up to you to complete or no
+ t for a draft week. Remember\, you do not share anything only complete onl
+ ine in the ONE DRIVE ONLY... Thx
+LAST-MODIFIED:20261005T013144Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:体育与健康40F：PAP活动日志开始周
+SUMMARY:12年级体育/健康课：PAP活动日志开始周
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
-DTSTAMP:20260928T120309Z
+DTSTAMP:20261005T013144Z
 UID:e24718129c24e6a25b99afe0800a1fbe0b2275d08cc7e90e42cef8e2efc7357e@edsby
  _ai_sync
-SEQUENCE:1790596989
-DESCRIPTION:PHYSICAL EDUCATION/HEALTH 40F\n\n地点安排带有条件，
- 请按原公告核对，不能视为无条件更换教室。\n体育与健
- 康40F课程：PAP活动日志Excel表格的官方开始周。请在使用
- SAMPLE 1标签开始记录，使用SAMPLE 2标签。文件已通过OneDriv
- e共享，请勿保存，直接在OneDrive中编辑。确保遵循要求
- 以获得每周“完成”评价，否则需在学期末补做。\n\n公
- 告原文：\nPHYSICAL EDUCATION/HEALTH 40F Hello again class. I have just
-  sent you all your PAP Log Excel - Please try and open it and to make sure
-  I gave you EDIT permission on it. You can start to log ASAP for this comi
- ng week under the SAMPLE 1 tab - then next week use the SAMPLE 2 tab. This
-  has been sent as a ONE DRIVE. Remember DO NOT save it. Just open in One D
- rive to edit as it is a LIVE document. The official start date is Oct 19th
-  Week. This then gives you 2 weeks of opportunity to use the excel and to 
- make sure you are following my expectations what is needed to earn a COMPL
- ETE each week. Otherwise they become INCOMPLETE and you will be making it 
- up in a MAKE UP DAY near the end of the semester. So make sure to work on 
- these over the next two week. Thx Mr. D
-LAST-MODIFIED:20260928T120309Z
+SEQUENCE:1791163904
+DESCRIPTION:Grade 12 PE / Health Period 3\n\n地点安排带有条件，
+ 请按原公告核对，不能视为无条件更换教室。\n12年级体
+ 育/健康课：PAP活动日志Excel表格官方开始周。请在OneDrive
+ 中打开并编辑（不要保存），使用SAMPLE 1标签页记录，使
+ 用SAMPLE 2标签页。每周需按要求完成以获得“COMPLETE”评
+ 价，否则需在学期末补做。\n\n公告原文：\nGrade 12 PE / Hea
+ lth Period 3 Hello again class. I have just sent you all your PAP Log Exce
+ l - Please try and open it and to make sure I gave you EDIT permission on 
+ it. You can start to log ASAP for this coming week under the SAMPLE 1 tab 
+ - then next week use the SAMPLE 2 tab. This has been sent as a ONE DRIVE. 
+ Remember DO NOT save it. Just open in One Drive to edit as it is a LIVE do
+ cument. The official start date is Oct 19th Week. This then gives you 2 we
+ eks of opportunity to use the excel and to make sure you are following my 
+ expectations what is needed to earn a COMPLETE each week. Otherwise they b
+ ecome INCOMPLETE and you will be making it up in a MAKE UP DAY near the en
+ d of the semester. So make sure to work on these over the next two week. T
+ hx Mr. D
+LAST-MODIFIED:20261005T013144Z
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
