@@ -231,26 +231,6 @@ LAST-MODIFIED:20261001T181805Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:12年级体育/健康 - SAMPLE 1 周检查
-DTSTART;VALUE=DATE:20261004
-DTEND;VALUE=DATE:20261005
-DTSTAMP:20261005T013144Z
-UID:540f8e3810e765f3eeffbd39b1bc9a149caf98e2dbf9a06955535ebe275aa53f@edsby
- _ai_sync
-SEQUENCE:1791163904
-DESCRIPTION:原文只注明单个时间，未提供有效的起止时间
- 区段。原文时间：19:00；此条仅作全天提醒，不占用具体
- 时间段。\n\nGrade 12 PE / Health Period 3\n\n这是你的 SAMPLE 1 周
- 检查。请记住，这是一个草稿周，是否完成由你决定。
- 请仅在 ONE DRIVE 中在线完成，不要分享任何内容。\n\n公
- 告原文：\nOct 4 Sample 1 -\nSunday\, October 4\, 2026 @ 7:00PM This is
-  your SAMPLE 1 week check in. Remember this is up to you to complete or no
- t for a draft week. Remember\, you do not share anything only complete onl
- ine in the ONE DRIVE ONLY... Thx
-LAST-MODIFIED:20261005T013144Z
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:12年级体育/健康课：PAP活动日志开始周
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
