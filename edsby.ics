@@ -183,6 +183,24 @@ LAST-MODIFIED:20260916T030026Z
 LOCATION:Rm. 107-Sage
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:HISTORY: CANADIAN 30F - 测验成绩公布
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+DTSTAMP:20261015T153103Z
+UID:1f65ab14fc983e8518e25a35c097c5a2edbc8a3a54a808a2b6744ef785c3ede5@edsby
+ _ai_sync
+SEQUENCE:1792078263
+DESCRIPTION:原文只注明单个时间，未提供有效的起止时间
+ 区段。原文时间：10:20；此条仅作全天提醒，不占用具体
+ 时间段。\n\nHISTORY: CANADIAN 30F\n\n第一次测验历史部分成绩
+ 公布。无需操作。\n\n公告原文：\nHISTORY: CANADIAN 30F Assignm
+ ent: First Test History Grade - Thursday\, October 15\, 2026 @ 10:20AM Thi
+ s is where I am putting the grade for the history portion of the first tes
+ t. You don't need to do anything.
+LAST-MODIFIED:20261015T153103Z
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:特殊语言考试
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
