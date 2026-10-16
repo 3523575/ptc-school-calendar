@@ -206,6 +206,48 @@ LAST-MODIFIED:20261001T181805Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:12年级体育/健康课：PAP日志作业截止
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+DTSTAMP:20261016T173305Z
+UID:c3d0cc0373db584c2d42431cf68bc35a247625d1d83ccea06267418c0047ebd7@edsby
+ _ai_sync
+SEQUENCE:1792171985
+DESCRIPTION:原文只注明单个时间，未提供有效的起止时间
+ 区段。原文时间：19:00；此条仅作全天提醒，不占用具体
+ 时间段。\n\nGrade 12 PE / Health Period 3\n\n12年级体育/健康课
+ ：PAP日志作业截止。未完成将导致补课日。\n\n公告原文
+ ：\nSunday\, October 18\, 2026 @ 7:00PM Gr.12 PAP Log\nOct 18 - this is n
+ ow going to be worth a Complete or Incomplete. If you do NOT complete thes
+ e weekly MANDATORY assignments\, then you will be adding MAKE UP DAYS that
+  will need to be completed in Mid to Late January. Thx Mr. D
+LAST-MODIFIED:20261016T173305Z
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:体育课 - 第二单元开始（羽毛球/足球）
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+DTSTAMP:20261016T173305Z
+UID:c9ba392811e447646c2b5d45ea87f0ccbedced0bd1cbd59325b0eabe2d0bd132@edsby
+ _ai_sync
+SEQUENCE:1792171985
+DESCRIPTION:Grade 12 PE / Health Period 3\n\n12年级体育/健康课第3
+ 节：第二单元（Block 2）开始。活动选项：羽毛球或足球
+ （场地游戏）。请穿着合适的运动服和运动鞋。如果未
+ 选第二单元，请明智利用时间。\n\n公告原文：\nGrade 12 PE
+  / Health Period 3 Hello class. Wanted to remind you that BLOCK 2 will be 
+ starting on Monday Oct 19th. Badminton or Soccer - Field Games Make sure y
+ ou come changed and ready with proper footwear for both Block Options. If 
+ you are not in a Block 2\, please use your time wisely. ATTENTION: Also th
+ ere was several of you that did NOT show up for your last class of BLOCK 1
+ . Information will be shared based on the teacher that was running it. It 
+ could be a make up day or 2 or even a full block needed if you were not in
+  attendance enough. Thx Mr. D
+LAST-MODIFIED:20261016T173305Z
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:补领学生证和照片
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
