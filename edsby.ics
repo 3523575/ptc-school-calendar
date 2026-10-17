@@ -206,22 +206,42 @@ LAST-MODIFIED:20261001T181805Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:12年级体育/健康课：PAP日志作业截止
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
-DTSTAMP:20261016T173305Z
-UID:c3d0cc0373db584c2d42431cf68bc35a247625d1d83ccea06267418c0047ebd7@edsby
+SUMMARY:12年级体育与健康：PAP日志说明
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+DTSTAMP:20261017T231612Z
+UID:758fdf86fecfaa54f85fd4ec539bf85621e2e063ba604571e1b9bf01428df143@edsby
  _ai_sync
-SEQUENCE:1792171985
+SEQUENCE:1792278972
+DESCRIPTION:Grade 12 PE / Health Period 3\n\n12年级体育与健康课程
+ ：PAP日志相关说明。老师对之前的通知进行了澄清。\n\n
+ 公告原文：\nOct 19. Sorry for any confusion. Mr. D Gr.12 PAP Log
+LAST-MODIFIED:20261017T231612Z
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:12年级体育与健康：PAP日志准备周截止
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+DTSTAMP:20261017T231612Z
+UID:bf0e43fd8c0a4c9686831775b778dae1cb148e6033d16dcd33cf1d3900520cad@edsby
+ _ai_sync
+SEQUENCE:1792278972
 DESCRIPTION:原文只注明单个时间，未提供有效的起止时间
  区段。原文时间：19:00；此条仅作全天提醒，不占用具体
- 时间段。\n\nGrade 12 PE / Health Period 3\n\n12年级体育/健康课
- ：PAP日志作业截止。未完成将导致补课日。\n\n公告原文
- ：\nSunday\, October 18\, 2026 @ 7:00PM Gr.12 PAP Log\nOct 18 - this is n
- ow going to be worth a Complete or Incomplete. If you do NOT complete thes
- e weekly MANDATORY assignments\, then you will be adding MAKE UP DAYS that
-  will need to be completed in Mid to Late January. Thx Mr. D
-LAST-MODIFIED:20261016T173305Z
+ 时间段。\n\nGrade 12 PE / Health Period 3\n\n12年级体育与健康
+ 课程：无需提交PAP日志。这是正式评分开始前的最后准
+ 备周，如有任何问题请及时询问。从起，日志将按“完
+ 成”或“未完成”评分。未完成每周强制性作业的学生
+ ，将需要在1月中下旬补做。\n\n公告原文：\nSunday\, October
+  25\, 2026 @ 7:00PM Hello class. You have NO PAP Log due this week. I gave
+  you 2 weeks of "samples" and now one week to make sure you are ready and 
+ incase you have any last minute questions before we start the OFFICIAL gra
+ ding of Logs on\nOct 25 - this is now going to be worth a Complete or Inco
+ mplete. If you do NOT complete these weekly MANDATORY assignments\, then y
+ ou will be adding MAKE UP DAYS that will need to be completed in Mid to La
+ te January. Thx Mr. D
+LAST-MODIFIED:20261017T231612Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
