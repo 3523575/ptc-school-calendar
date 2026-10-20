@@ -3,42 +3,6 @@ VERSION:2.0
 PRODID:-//Edsby Perfect Sync//EN
 X-WR-TIMEZONE:America/Winnipeg
 BEGIN:VEVENT
-SUMMARY:📚Grade 12 PE / Health Period 3  Excused  PE40F(04)
-DTSTART:20261019T094000
-DTEND:20261019T105000
-DTSTAMP:20260916T030026Z
-UID:3082e953146267750dc6eaec04a86987@edsby_sync
-SEQUENCE:1789527626
-DESCRIPTION:课表原始时间区段：09:40–10:50（Edsby 课表明确
- 起止时间）。
-LAST-MODIFIED:20260916T030026Z
-LOCATION:Rm. 186-Gymnasium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📚ELA: COMP. FOCUS 30S  Excused  ELACF30S(13)
-DTSTART:20261019T105000
-DTEND:20261019T120000
-DTSTAMP:20260916T030026Z
-UID:ca9551398d191c4048e5eca2b9aa3b93@edsby_sync
-SEQUENCE:1789527626
-DESCRIPTION:课表原始时间区段：10:50–12:00（Edsby 课表明确
- 起止时间）。
-LAST-MODIFIED:20260916T030026Z
-LOCATION:Rm. 308
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📚Slots #7 & #8 - EAL Literacy Stage 3  Present  EALLIT30F(03)
-DTSTART:20261019T142000
-DTEND:20261019T153000
-DTSTAMP:20260916T030026Z
-UID:1404ccc95c23a64867d734ed1e146e1c@edsby_sync
-SEQUENCE:1789527626
-DESCRIPTION:课表原始时间区段：14:20–15:30（Edsby 课表明确
- 起止时间）。
-LAST-MODIFIED:20260916T030026Z
-LOCATION:Rm. 107-Sage
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:📚Grade 12 PE / Health Period 3  PE40F(04)
 DTSTART:20261020T094000
 DTEND:20261020T105000
@@ -183,6 +147,42 @@ LAST-MODIFIED:20260916T030026Z
 LOCATION:Rm. 107-Sage
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:📚Grade 12 PE / Health Period 3  PE40F(04)
+DTSTART:20261026T094000
+DTEND:20261026T105000
+DTSTAMP:20260916T030026Z
+UID:d97c97ee3040bdda5d6c007a8a1f689e@edsby_sync
+SEQUENCE:1789527626
+DESCRIPTION:课表原始时间区段：09:40–10:50（Edsby 课表明确
+ 起止时间）。
+LAST-MODIFIED:20260916T030026Z
+LOCATION:Rm. 186-Gymnasium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚ELA: COMP. FOCUS 30S  ELACF30S(13)
+DTSTART:20261026T105000
+DTEND:20261026T120000
+DTSTAMP:20260916T030026Z
+UID:7c7e61947ae43ac65d1a8a69b52bcdcc@edsby_sync
+SEQUENCE:1789527626
+DESCRIPTION:课表原始时间区段：10:50–12:00（Edsby 课表明确
+ 起止时间）。
+LAST-MODIFIED:20260916T030026Z
+LOCATION:Rm. 308
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚Slots #7 & #8 - EAL Literacy Stage 3  EALLIT30F(03)
+DTSTART:20261026T142000
+DTEND:20261026T153000
+DTSTAMP:20260916T030026Z
+UID:37f486c66e357e6e99c68629091ca7ed@edsby_sync
+SEQUENCE:1789527626
+DESCRIPTION:课表原始时间区段：14:20–15:30（Edsby 课表明确
+ 起止时间）。
+LAST-MODIFIED:20260916T030026Z
+LOCATION:Rm. 107-Sage
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:特殊语言考试
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
@@ -222,52 +222,13 @@ LAST-MODIFIED:20261019T151617Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:待确认日期｜STUDENT ABSENCES｜重要事项
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-DTSTAMP:20261019T203102Z
-UID:6abdc9a40c6c843a2615057457642e79a7068c1401dc83fd39eee83a479c54a1@edsby
- _ai_sync
-SEQUENCE:1792441862
-DESCRIPTION:STUDENT ABSENCES\n\n原公告未注明日期；列为首次发
- 现日的全天提醒，请核对实际安排。\n关于学生缺席的常
- 规政策提醒。请使用Edsby提交全天或部分时段缺席。连续
- 缺席3天或以上需提前5天填写长期缺席表格。\n\n公告原
- 文：\nSTUDENT ABSENCES\nDAILY ATTENDANCE IN EDSBY If your student is awa
- y for the full day - please select the full day absence option in Edsby. I
- f your student is only gone for a partial day - you will need to adjust th
- e time so that the Office knows how long the student will be away (please 
- make sure to add a comment). EXTENDED LEAVE Students who are away for 3 or
-  more consecutive days are required to have an extended absence form fille
- d out prior to leaving (5 days in advance). For all the details on attenda
- nce and a copy of the extended absence form please view our attendance pol
- icy or fill out the form below and send it to PCattendance@pembinatrails.c
- a https://www.pembinatrails.ca/ptcollegiate/attendance
-LAST-MODIFIED:20261019T203102Z
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:12年级体育与健康：PAP日志说明
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-DTSTAMP:20261017T231612Z
-UID:758fdf86fecfaa54f85fd4ec539bf85621e2e063ba604571e1b9bf01428df143@edsby
- _ai_sync
-SEQUENCE:1792278972
-DESCRIPTION:Grade 12 PE / Health Period 3\n\n12年级体育与健康课程
- ：PAP日志相关说明。老师对之前的通知进行了澄清。\n\n
- 公告原文：\nOct 19. Sorry for any confusion. Mr. D Gr.12 PAP Log
-LAST-MODIFIED:20261017T231612Z
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:12年级体育与健康：PAP日志准备周截止
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
-DTSTAMP:20261017T231612Z
+DTSTAMP:20261020T050058Z
 UID:bf0e43fd8c0a4c9686831775b778dae1cb148e6033d16dcd33cf1d3900520cad@edsby
  _ai_sync
-SEQUENCE:1792278972
+SEQUENCE:1792472458
 DESCRIPTION:原文只注明单个时间，未提供有效的起止时间
  区段。原文时间：19:00；此条仅作全天提醒，不占用具体
  时间段。\n\nGrade 12 PE / Health Period 3\n\n12年级体育与健康
@@ -282,30 +243,7 @@ DESCRIPTION:原文只注明单个时间，未提供有效的起止时间
  mplete. If you do NOT complete these weekly MANDATORY assignments\, then y
  ou will be adding MAKE UP DAYS that will need to be completed in Mid to La
  te January. Thx Mr. D
-LAST-MODIFIED:20261017T231612Z
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:体育课 - 第二单元开始（羽毛球/足球）
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-DTSTAMP:20261016T173305Z
-UID:c9ba392811e447646c2b5d45ea87f0ccbedced0bd1cbd59325b0eabe2d0bd132@edsby
- _ai_sync
-SEQUENCE:1792171985
-DESCRIPTION:Grade 12 PE / Health Period 3\n\n12年级体育/健康课第3
- 节：第二单元（Block 2）开始。活动选项：羽毛球或足球
- （场地游戏）。请穿着合适的运动服和运动鞋。如果未
- 选第二单元，请明智利用时间。\n\n公告原文：\nGrade 12 PE
-  / Health Period 3 Hello class. Wanted to remind you that BLOCK 2 will be 
- starting on Monday Oct 19th. Badminton or Soccer - Field Games Make sure y
- ou come changed and ready with proper footwear for both Block Options. If 
- you are not in a Block 2\, please use your time wisely. ATTENTION: Also th
- ere was several of you that did NOT show up for your last class of BLOCK 1
- . Information will be shared based on the teacher that was running it. It 
- could be a make up day or 2 or even a full block needed if you were not in
-  attendance enough. Thx Mr. D
-LAST-MODIFIED:20261016T173305Z
+LAST-MODIFIED:20261020T050058Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -325,27 +263,6 @@ DESCRIPTION:原文只注明单个时间，未提供有效的起止时间
  ! In gratitude\, Jacqui Kroeker\, Linda Eden\, David Gamble and Jeff Morga
  n (your admin team)
 LAST-MODIFIED:20261019T151617Z
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:12年级体育/健康 - PAP日志开始周
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-DTSTAMP:20261005T114622Z
-UID:e24718129c24e6a25b99afe0800a1fbe0b2275d08cc7e90e42cef8e2efc7357e@edsby
- _ai_sync
-SEQUENCE:1791200782
-DESCRIPTION:Grade 12 PE / Health Period 3\n\n地点安排带有条件，
- 请按原公告核对，不能视为无条件更换教室。\nPAP日志Exc
- el官方开始周。使用SAMPLE 2标签记录。确保遵循要求以获
- 得每周“完成”评价，否则将记为“未完成”并在学期
- 末补做。文档为OneDrive实时文件，请勿保存，直接在线编
- 辑。\n\n公告原文：\nOct 19th Week. This then gives you 2 weeks of o
- pportunity to use the excel and to make sure you are following my expectat
- ions what is needed to earn a COMPLETE each week. Otherwise they become IN
- COMPLETE and you will be making it up in a MAKE UP DAY near the end of the
-  semester. So make sure to work on these over the next two week. Thx Mr. D
-LAST-MODIFIED:20261005T114622Z
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
