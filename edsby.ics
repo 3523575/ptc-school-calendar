@@ -222,6 +222,30 @@ LAST-MODIFIED:20261019T151617Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:待确认日期｜STUDENT ABSENCES｜重要事项
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+DTSTAMP:20261023T150103Z
+UID:78fcb806b34e211e25135f087a6b9b0596a35912f5fcf0a65b3d8ff08dee692b@edsby
+ _ai_sync
+SEQUENCE:1792767663
+DESCRIPTION:STUDENT ABSENCES\n\n原公告未注明日期；列为首次发
+ 现日的全天提醒，请核对实际安排。\n关于学生缺勤的通
+ 用政策通知，包括全日/半日缺勤报告和长期请假表格要
+ 求。\n\n公告原文：\nSTUDENT ABSENCES\nDAILY ATTENDANCE IN EDSBY If 
+ your student is away for the full day - please select the full day absence
+  option in Edsby. If your student is only gone for a partial day - you wil
+ l need to adjust the time so that the Office knows how long the student wi
+ ll be away (please make sure to add a comment). EXTENDED LEAVE Students wh
+ o are away for 3 or more consecutive days are required to have an extended
+  absence form filled out prior to leaving (5 days in advance). For all the
+  details on attendance and a copy of the extended absence form please view
+  our attendance policy or fill out the form below and send it to PCattenda
+ nce@pembinatrails.ca https://www.pembinatrails.ca/ptcollegiate/attendance
+LAST-MODIFIED:20261023T150103Z
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:12年级体育与健康：PAP日志准备周截止
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
