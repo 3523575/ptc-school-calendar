@@ -200,6 +200,27 @@ LOCATION:图书馆（Library）
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:特殊语言考试
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+DTSTAMP:20261026T154607Z
+UID:4dd95a934cba062dc6eacbf96358452e9fc4a19cbafccdbe7e10a5919d43b691@edsby
+ _ai_sync
+SEQUENCE:1793029567
+DESCRIPTION:Special Language Exams\n\n地点：Fort Richmond Collegiate。
+ \n特殊语言考试，放学后在Fort Richmond Collegiate举行。考试
+ 级别无需与年级匹配。考生必须是Pembina Trails学区居民。
+ \n\n公告原文：\nDecember 1st and 2nd after school at Fort Richmond Co
+ llegiate. A couple of important things to note: The level of exam that you
+  take DOES NOT need to match your grade level. The poster says that you mu
+ st be a "resident". This means a resident of Pembina Trails School Divisio
+ n\, which all of you are. Please message Ms. Beauchamp on Edsby if you hav
+ e any questions about the exam or registration. Click on the attachment fo
+ r the registration link or QR code. Registration closes on
+LAST-MODIFIED:20261026T154607Z
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Celebration of Learning - October 2026｜重要事项
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
