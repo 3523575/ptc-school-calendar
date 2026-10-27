@@ -238,6 +238,24 @@ LAST-MODIFIED:20261019T151617Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:体育与健康课 - 体育馆上课
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+DTSTAMP:20261027T010108Z
+UID:c05a856f8fb50b2bf51f0578cae334f63423d50af4446b6f7ca87cefeec8f6fd@edsby
+ _ai_sync
+SEQUENCE:1793062868
+DESCRIPTION:Grade 12 PE / Health Period 3\n\n体育与健康课将在体
+ 育馆进行。请穿着运动服并准备好参与。\n\n公告原文：\
+ nGrade 12 PE / Health Period 3 Hello class\, we will be in the gym for our
+  meetings tomorrow Tuesday\, October 27. Make sure you come changed and re
+ ady to participate. These are mandatory two days we have this week Tuesday
+  and Thursday. Tuesday we are in the gym come changed and ready to partici
+ pate again.
+LAST-MODIFIED:20261027T010108Z
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Celebration of Learning - October 2026｜重要事项
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
