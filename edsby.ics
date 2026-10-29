@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//Edsby Perfect Sync//EN
 X-WR-TIMEZONE:America/Winnipeg
 BEGIN:VEVENT
-SUMMARY:📚Grade 12 PE / Health Period 3  PE40F(04)
+SUMMARY:📚Grade 12 PE / Health Period 3  Absent Unresolved  PE40F(04)
 DTSTART:20261029T094000
 DTEND:20261029T105000
 DTSTAMP:20260916T030026Z
@@ -221,19 +221,20 @@ LAST-MODIFIED:20261026T154607Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:12年级体育/健康第3节：体育馆强制性会议
+SUMMARY:12年级体育/健康第3节课：在MPR开会
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
-DTSTAMP:20261029T123100Z
+DTSTAMP:20261029T150109Z
 UID:6e9c221a1603618c4ad18f3344f8e8bff3850da187d0a310348ae8c9a3779a8f@edsby
  _ai_sync
-SEQUENCE:1793277060
-DESCRIPTION:Grade 12 PE / Health Period 3\n\n在体育馆进行强制性
- 会议。请穿着运动服并准备好参与。\n\n公告原文：\nGrade
-  12 PE / Health Period 3 Hello class\, TODAY we will be in the gym for our
-  meetings Thursday\, October 29. Make sure you come changed and ready to p
- articipate. These are mandatory meetings.
-LAST-MODIFIED:20261029T123100Z
+SEQUENCE:1793286069
+DESCRIPTION:Grade 12 PE / Health Period 3\n\n地点：MPR。\n（10月29
+ 日）的会议地点改为MPR。请带一些学习资料。这些是强
+ 制性会议。\n\n公告原文：\nGrade 12 PE / Health Period 3 Edited H
+ ello class\, TODAY we will be in the MPR for our meetings Thursday\, Octob
+ er 29. Make sure to bring some academic work for this period. These are ma
+ ndatory meetings.
+LAST-MODIFIED:20261029T150109Z
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
