@@ -220,4 +220,20 @@ DESCRIPTION:Special Language Exams\n\n地点：Fort Richmond Collegiate。
 LAST-MODIFIED:20261026T154607Z
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:12年级体育/健康第3节：体育馆强制性会议
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+DTSTAMP:20261029T123100Z
+UID:6e9c221a1603618c4ad18f3344f8e8bff3850da187d0a310348ae8c9a3779a8f@edsby
+ _ai_sync
+SEQUENCE:1793277060
+DESCRIPTION:Grade 12 PE / Health Period 3\n\n在体育馆进行强制性
+ 会议。请穿着运动服并准备好参与。\n\n公告原文：\nGrade
+  12 PE / Health Period 3 Hello class\, TODAY we will be in the gym for our
+  meetings Thursday\, October 29. Make sure you come changed and ready to p
+ articipate. These are mandatory meetings.
+LAST-MODIFIED:20261029T123100Z
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
