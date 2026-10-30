@@ -10,9 +10,12 @@ DTSTAMP:20260916T030026Z
 UID:68dd362abb98721947f11ff8e3f9143e@edsby_sync
 SEQUENCE:1789527626
 DESCRIPTION:课表原始时间区段：09:40–10:50（Edsby 课表明确
- 起止时间）。
+ 起止时间）。\n\nGrade 12 PE / Health Period 3\n\n地点：Room 129
+ 。\n在129教室开始第一个健康单元。\n\n公告原文：\nGrade 
+ 12 PE / Health Period 3 2s ago Hello class. Just a reminder we start our f
+ irst Health Block today in Room 129. See you there. Mr. D
 LAST-MODIFIED:20260916T030026Z
-LOCATION:Rm. 186-Gymnasium
+LOCATION:Room 129
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:📚ELA: COMP. FOCUS 30S  ELACF30S(13)
@@ -233,6 +236,22 @@ DESCRIPTION:Special Language Exams\n\n地点：Fort Richmond Collegiate。
  e any questions about the exam or registration. Click on the attachment fo
  r the registration link or QR code. Registration closes on
 LAST-MODIFIED:20261026T154607Z
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:12年级体育/健康课：在129教室开始健康单元
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+DTSTAMP:20261030T121602Z
+UID:da08c21ee9177ecd6e75d42b382b49c4956d1856db4af638305480ab052a0466@edsby
+ _ai_sync
+SEQUENCE:1793362562
+DESCRIPTION:Grade 12 PE / Health Period 3\n\n地点：Room 129。\n在129
+ 教室开始第一个健康单元。\n\n公告原文：\nGrade 12 PE / Hea
+ lth Period 3 2s ago Hello class. Just a reminder we start our first Health
+  Block today in Room 129. See you there. Mr. D
+LAST-MODIFIED:20261030T121602Z
+LOCATION:Room 129
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
