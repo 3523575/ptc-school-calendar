@@ -11,9 +11,9 @@ UID:68dd362abb98721947f11ff8e3f9143e@edsby_sync
 SEQUENCE:1789527626
 DESCRIPTION:课表原始时间区段：09:40–10:50（Edsby 课表明确
  起止时间）。\n\nGrade 12 PE / Health Period 3\n\n地点：Room 129
- 。\n在129教室开始第一个健康单元。\n\n公告原文：\nGrade 
- 12 PE / Health Period 3 2s ago Hello class. Just a reminder we start our f
- irst Health Block today in Room 129. See you there. Mr. D
+ 。\n在129教室开始第一个健康模块。\n\n公告原文：\nGrade 
+ 12 PE / Health Period 3 Hello class. Just a reminder we start our first He
+ alth Block today in Room 129. See you there. Mr. D
 LAST-MODIFIED:20260916T030026Z
 LOCATION:Room 129
 END:VEVENT
@@ -239,18 +239,18 @@ LAST-MODIFIED:20261026T154607Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:12年级体育/健康课：在129教室开始健康单元
+SUMMARY:12年级体育/健康课第3节 - 在129教室开始健康模块
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-DTSTAMP:20261030T121602Z
+DTSTAMP:20261030T123100Z
 UID:da08c21ee9177ecd6e75d42b382b49c4956d1856db4af638305480ab052a0466@edsby
  _ai_sync
-SEQUENCE:1793362562
+SEQUENCE:1793363460
 DESCRIPTION:Grade 12 PE / Health Period 3\n\n地点：Room 129。\n在129
- 教室开始第一个健康单元。\n\n公告原文：\nGrade 12 PE / Hea
- lth Period 3 2s ago Hello class. Just a reminder we start our first Health
-  Block today in Room 129. See you there. Mr. D
-LAST-MODIFIED:20261030T121602Z
+ 教室开始第一个健康模块。\n\n公告原文：\nGrade 12 PE / Hea
+ lth Period 3 Hello class. Just a reminder we start our first Health Block 
+ today in Room 129. See you there. Mr. D
+LAST-MODIFIED:20261030T123100Z
 LOCATION:Room 129
 TRANSP:TRANSPARENT
 END:VEVENT
