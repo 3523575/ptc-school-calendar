@@ -254,4 +254,30 @@ LAST-MODIFIED:20261030T123100Z
 LOCATION:Room 129
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:待确认日期｜STUDENT ABSENCES｜重要事项
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+DTSTAMP:20261030T153058Z
+UID:f817639908acd3bbc8928e908a964b4d349554953a0b2bb183613e37db31a703@edsby
+ _ai_sync
+SEQUENCE:1793374258
+DESCRIPTION:STUDENT ABSENCES\n\n原公告未注明日期；列为首次发
+ 现日的全天提醒，请核对实际安排。\n关于学生缺席报告
+ 的重要通知：全天缺席请在Edsby选择全天缺席选项；部分
+ 时段缺席请调整时间并添加备注。连续离校3天或以上需
+ 提前5天填写长期缺席表格。详情和表格链接已提供。\n\n
+ 公告原文：\nSTUDENT ABSENCES\nDAILY ATTENDANCE IN EDSBY If your stude
+ nt is away for the full day - please select the full day absence option in
+  Edsby. If your student is only gone for a partial day - you will need to 
+ adjust the time so that the Office knows how long the student will be away
+  (please make sure to add a comment). EXTENDED LEAVE Students who are away
+  for 3 or more consecutive days are required to have an extended absence f
+ orm filled out prior to leaving (5 days in advance). For all the details o
+ n attendance and a copy of the extended absence form please view our atten
+ dance policy or fill out the form below and send it to PCattendance@pembin
+ atrails.ca https://www.pembinatrails.ca/ptcollegiate/attendance
+LAST-MODIFIED:20261030T153058Z
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
