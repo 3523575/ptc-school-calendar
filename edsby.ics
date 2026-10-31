@@ -3,45 +3,6 @@ VERSION:2.0
 PRODID:-//Edsby Perfect Sync//EN
 X-WR-TIMEZONE:America/Winnipeg
 BEGIN:VEVENT
-SUMMARY:📚Grade 12 PE / Health Period 3  Absent Unresolved  PE40F(04)
-DTSTART:20261030T094000
-DTEND:20261030T105000
-DTSTAMP:20260916T030026Z
-UID:68dd362abb98721947f11ff8e3f9143e@edsby_sync
-SEQUENCE:1789527626
-DESCRIPTION:课表原始时间区段：09:40–10:50（Edsby 课表明确
- 起止时间）。\n\nGrade 12 PE / Health Period 3\n\n地点：Room 129
- 。\n在129教室开始第一个健康模块。\n\n公告原文：\nGrade 
- 12 PE / Health Period 3 Hello class. Just a reminder we start our first He
- alth Block today in Room 129. See you there. Mr. D
-LAST-MODIFIED:20260916T030026Z
-LOCATION:Room 129
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📚ELA: COMP. FOCUS 30S  Present  ELACF30S(13)
-DTSTART:20261030T105000
-DTEND:20261030T120000
-DTSTAMP:20260916T030026Z
-UID:393c9b57b04fb8ad8e8ad4fa1fe2fc0d@edsby_sync
-SEQUENCE:1789527626
-DESCRIPTION:课表原始时间区段：10:50–12:00（Edsby 课表明确
- 起止时间）。
-LAST-MODIFIED:20260916T030026Z
-LOCATION:Rm. 308
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📚Slots #7 & #8 - EAL Literacy Stage 3  Present  EALLIT30F(03)
-DTSTART:20261030T142000
-DTEND:20261030T153000
-DTSTAMP:20260916T030026Z
-UID:f79ae2f0366b16fdebc3f4271a00e051@edsby_sync
-SEQUENCE:1789527626
-DESCRIPTION:课表原始时间区段：14:20–15:30（Edsby 课表明确
- 起止时间）。
-LAST-MODIFIED:20260916T030026Z
-LOCATION:Rm. 107-Sage
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:📚Grade 12 PE / Health Period 3  PE40F(04)
 DTSTART:20261102T084000
 DTEND:20261102T095000
@@ -186,6 +147,42 @@ LAST-MODIFIED:20260916T030026Z
 LOCATION:Rm. 107-Sage
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:📚Grade 12 PE / Health Period 3  PE40F(04)
+DTSTART:20261106T084000
+DTEND:20261106T095000
+DTSTAMP:20260916T030026Z
+UID:54fd2fe201572c86b449c04a94c86fbe@edsby_sync
+SEQUENCE:1789527626
+DESCRIPTION:课表原始时间区段：08:40–09:50（Edsby 课表明确
+ 起止时间）。
+LAST-MODIFIED:20260916T030026Z
+LOCATION:Rm. 186-Gymnasium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚ELA: COMP. FOCUS 30S  ELACF30S(13)
+DTSTART:20261106T095000
+DTEND:20261106T110000
+DTSTAMP:20260916T030026Z
+UID:a11251059b86465ff47a7ae96e9f5673@edsby_sync
+SEQUENCE:1789527626
+DESCRIPTION:课表原始时间区段：09:50–11:00（Edsby 课表明确
+ 起止时间）。
+LAST-MODIFIED:20260916T030026Z
+LOCATION:Rm. 308
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📚Slots #7 & #8 - EAL Literacy Stage 3  EALLIT30F(03)
+DTSTART:20261106T132000
+DTEND:20261106T143000
+DTSTAMP:20260916T030026Z
+UID:cbdefe6c5337ad35b22c7f5abe7ca0bf@edsby_sync
+SEQUENCE:1789527626
+DESCRIPTION:课表原始时间区段：13:20–14:30（Edsby 课表明确
+ 起止时间）。
+LAST-MODIFIED:20260916T030026Z
+LOCATION:Rm. 107-Sage
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:照片日/补拍日
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
@@ -200,21 +197,6 @@ DESCRIPTION:Picture Day - November 3\, 2026\n\n地点：图书馆（Librar
  idn't get photos or students that need re-takes.
 LAST-MODIFIED:20261023T183105Z
 LOCATION:图书馆（Library）
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELA: COMP. FOCUS 30S - 重新提交书籍封面分析
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-DTSTAMP:20261030T050055Z
-UID:362c6171db58a2a536b7050ba88b207d9cf8959eada0a735f895f74c4446e6dd@edsby
- _ai_sync
-SEQUENCE:1793336455
-DESCRIPTION:ELA: COMP. FOCUS 30S\n\n这是你的重新提交任务。思
- 考封面的哪些特点会吸引潜在读者拿起并阅读它。\n\n公
- 告原文：\ntomorrow. This is your resubmit. Think about the features of
-  this cover that would make a potential reader pick it up and read it.
-LAST-MODIFIED:20261030T050055Z
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -236,48 +218,6 @@ DESCRIPTION:Special Language Exams\n\n地点：Fort Richmond Collegiate。
  e any questions about the exam or registration. Click on the attachment fo
  r the registration link or QR code. Registration closes on
 LAST-MODIFIED:20261026T154607Z
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:12年级体育/健康课第3节 - 在129教室开始健康模块
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-DTSTAMP:20261030T123100Z
-UID:da08c21ee9177ecd6e75d42b382b49c4956d1856db4af638305480ab052a0466@edsby
- _ai_sync
-SEQUENCE:1793363460
-DESCRIPTION:Grade 12 PE / Health Period 3\n\n地点：Room 129。\n在129
- 教室开始第一个健康模块。\n\n公告原文：\nGrade 12 PE / Hea
- lth Period 3 Hello class. Just a reminder we start our first Health Block 
- today in Room 129. See you there. Mr. D
-LAST-MODIFIED:20261030T123100Z
-LOCATION:Room 129
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:待确认日期｜STUDENT ABSENCES｜重要事项
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-DTSTAMP:20261030T153058Z
-UID:f817639908acd3bbc8928e908a964b4d349554953a0b2bb183613e37db31a703@edsby
- _ai_sync
-SEQUENCE:1793374258
-DESCRIPTION:STUDENT ABSENCES\n\n原公告未注明日期；列为首次发
- 现日的全天提醒，请核对实际安排。\n关于学生缺席报告
- 的重要通知：全天缺席请在Edsby选择全天缺席选项；部分
- 时段缺席请调整时间并添加备注。连续离校3天或以上需
- 提前5天填写长期缺席表格。详情和表格链接已提供。\n\n
- 公告原文：\nSTUDENT ABSENCES\nDAILY ATTENDANCE IN EDSBY If your stude
- nt is away for the full day - please select the full day absence option in
-  Edsby. If your student is only gone for a partial day - you will need to 
- adjust the time so that the Office knows how long the student will be away
-  (please make sure to add a comment). EXTENDED LEAVE Students who are away
-  for 3 or more consecutive days are required to have an extended absence f
- orm filled out prior to leaving (5 days in advance). For all the details o
- n attendance and a copy of the extended absence form please view our atten
- dance policy or fill out the form below and send it to PCattendance@pembin
- atrails.ca https://www.pembinatrails.ca/ptcollegiate/attendance
-LAST-MODIFIED:20261030T153058Z
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
